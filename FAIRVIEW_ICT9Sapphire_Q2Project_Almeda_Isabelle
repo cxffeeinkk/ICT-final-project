@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>welcome to the cozy cafe !!</title>
+	<style type="text/css">
+		h1{
+			background-color:#ffd7bf;
+			border-style: solid;
+			border-color: #ffe3cf;
+			text-decoration-style: solid;
+			text-shadow: #ffd6c7
+			}
+	</style>
+</head>
+
+<body style="background-color: #ffa07a;color:#d96d50">
+<h1 style="text-align: center">♡˗ˏ🥧໒★﹐the autumn cafe.﹗!🍁﹑</h1>
+  <h1 style="text-align: center"><table border="5" cellpadding="15" style="text-align: center;background: #ffcdc7"></H1>
+	<tr> 
+		<td style="text-align:center;background-color:#ffbb9e;color:#d67863"colspan="10"><i>♡˗ˏ🍂໒:･ﾟ✧: MENU !!!☽˚｡･☕️ﾟ✧:.</i></td>
+	</tr>
+	<tr>
+    	<td style="background-color:#e89a7b"><img src="fall1.jpg" 
+        width="300" height="350"></td>
+		<td style="background-color:#e89a7b"><img src="fall2.jpg" 
+        width="300" height="350"></td>
+		<td style="background-color:#e89a7b"><img src="fall3.jpg" 
+        width="300" height="350"></td>
+		<td style="background-color:#e89a7b"><img src="fall4.jpg" 
+        width="335" height="350"></td>
+    </tr>
+	<tr>
+    	<td style="background-color:#ffb89c"><i>the mycologist's apple pie</i></td>
+		<td style="background-color:#ffb89c"><i>the caramel-vanilla pie</td>
+		<td style="background-color:#ffb89c"><i>pumpkin spice latte</i></td>
+		<td style="background-color:#ffb89c"><i>cinnamon crunch coffee</i></td>
+    </tr>
+    <tr>
+    	<td style="background-color:#ffe3cf"><i>Php150 for a slice, Php350 for a whole pie</i></td>
+		<td style="background-color:#ffe3cf"><i>Php150 for a slice, Php350 for a whole pie</td>
+		<td style="background-color:#ffe3cf"><i>Php130</i></td>
+		<td style="background-color:#ffe3cf"><i>Php130</i></td>
+    </tr>
+    <tr>
+    	<td style="background-color:#e89a7b"><img src="fall5.jpg" 
+        width="300" height="350"></td>
+		<td style="background-color:#e89a7b"><img src="Fall6.png" 
+        width="300" height="350"></td>
+		<td style="background-color:#e89a7b"><img src="Fall7.jpg" 
+        width="300" height="350"></td>
+		<td style="background-color:#e89a7b"><img src="Fall8.jpg" 
+        width="335" height="350"></td>
+    </tr>
+    <tr>
+    	<td style="background-color:#ffb89c"><i>little pumpkin frappe</i></td>
+		<td style="background-color:#ffb89c"><i>autumnal macarons</td>
+		<td style="background-color:#ffb89c"><i>pumpkin spice cupcakes</i></td>
+		<td style="background-color:#ffb89c"><i>simple smores</i></td>
+    </tr>
+    <tr>
+    	<td style="background-color:#ffe3cf"><i>Php140</i></td>
+		<td style="background-color:#ffe3cf"><i>Php30 for a piece, Php150 for five pieces</td>
+		<td style="background-color:#ffe3cf"><i>Php50 for one, Php230 for a whole box</i></td>
+		<td style="background-color:#ffe3cf"><i>Php99 for the mini pack</i></td>
+    </tr>
+    <tr>
+    	<td style="background-color:#e89a7b"><img src="Fall9.jpg" 
+        width="300" height="350"></td>
+		<td style="background-color:#e89a7b"><img src="Fall10.jpg" 
+        width="300" height="350"></td>
+		<td style="background-color:#e89a7b"><img src="fall11.jpg" 
+        width="300" height="350"></td>
+		<td style="background-color:#e89a7b"><img src="fall12.jpg" 
+        width="335" height="350"></td>
+    </tr>
+    <tr>
+    	<td style="background-color:#ffb89c"><i>caramel frappe</i></td>
+		<td style="background-color:#ffb89c"><i>bavarian pumpkin spice donuts</td>
+		<td style="background-color:#ffb89c"><i>teeny tiny pizza</i></td>
+		<td style="background-color:#ffb89c"><i>autumnal pancakes</i></td>
+    </tr>
+    <tr>
+    	<td style="background-color:#ffe3cf"><i>Php140</i></td>
+		<td style="background-color:#ffe3cf"><i>Php50 for one, Php230 for a whole box</i></td>
+		<td style="background-color:#ffe3cf"><i>Php130</i></td>
+		<td style="background-color:#ffe3cf"><i>Php130</i></td>
+    </tr>
+</body>
+</html> 
